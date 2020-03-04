@@ -25,7 +25,9 @@ public class cambios {
 		this.b = b;
 	}
 
-	
+	public int suma(){
+		return a+b;
+	}
 	
 
 }
